@@ -8,6 +8,11 @@ march action
 
 3、gossip
 
+4、consistent hashing
+
+
+
+
 
 
 

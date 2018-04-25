@@ -13,6 +13,7 @@
         <module>distribute-paxos</module>
         <module>distribute-raft</module>
         <module>distribute-gossip</module>
+        <module>distribute-consistant</module>
     </modules>
 
 
